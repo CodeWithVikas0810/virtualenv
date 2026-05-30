@@ -123,8 +123,6 @@ Yes, using background-size.
 </select>
 ```
 
-The <select> tag creates a dropdown.
-
 ---
 
 ### 14. Tumma Haritha: What is clear in float?
